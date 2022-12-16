@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ### Education
 
 * Ph.D in Economics, ENS, PSL, [Paris School of Economics](www.parisschoolofeconomics.eu), 2019. Supervisor : Marc Gurgand. [Manuscript](https://theses.hal.science/tel-03716759)
@@ -24,6 +22,10 @@ redirect_from:
 * Fall semester 2014 : Short term temporary at the DEC-VP of the World Bank, Washington DC.
 * April-September 2012 : Junior analyst in Competition economics at [Mapp Economics](https://home.kpmg/fr/fr/home/services/advisory/deal-advisory/competition-economics-mapp-by-kpmg.html), Paris, France
 
+### Grants
+
+
+
 ### Skills
 
 * Languages spoken: French, English, German, Mandarin.
@@ -32,7 +34,7 @@ redirect_from:
 ### Refereeing
 
 Journal of Development Economics, World Development, China Economic Review
- 
+
 ### Communities
 
 * [OpenFisca-France](https://openfisca.org)
