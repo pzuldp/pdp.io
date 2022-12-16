@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* since 2019 : senio economist at Institut des politiques publiques.
+* since 2019 : senior economist at Institut des politiques publiques.
 * 2018-2019 : junior economist at Institut des politiques publiques.
 * Spring semester 2015 : Field coordinator in Cap-Haïtien, Haïti, under the supervision of Pr. Karen Macours (PSE) and Dan Stein (World Bank).
 * Fall semester 2014 : Short term termpory at the DEC-VP of the World Bank, Washington DC.
