@@ -1,16 +1,36 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Work in progress
 
-{% include base_path %}
+- Labor digitalization and the 2020 pandemic, with Thomas Breda and Vladimir Pécheu
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Broadband infrastructure, firms, and workers, with Arthur Guillouzouic and Clément Malgouyres
+
+- Perceptions of income inequality and redistributivity, with Joyce Sultan Parraud
+
+- Measuring the carbon targeting of French corporate taxation, with Laurent Bach, Arthur Guillouzouic, Clément Malgouyres, Hélène Ollivier, Rachel Paya
+
+### Working papers
+
+- Cohorts, Competition and Construction:\\Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [Maiting Zhuang](https://sites.google.com/view/maitingzhuang/home), *submitted*.
+
+### Publications in peer-reviewed journals
+
+- Large Means-Tested Pensions with Informal Labor Markets: Evidence from South Africa, with [Alessandro Tondini](https://sites.google.com/site/alessandrocarlotondini/home?pli=1), Economic Development and Cultural Change, forthcoming. [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/717618)
+
+### Policy 
+
+- *[in French]* Le recours à l'activité partielle pendant la crise sanitaire et ses conséquences, with L. Bach, T. Breda, N. Ghio, C. Malgouyres, L. Toulemon, Rapport IPP 38, December 2022 [Link](https://www.ipp.eu/publication/le-recours-a-lactivite-partielle-pendant-la-crise-sanitaire-et-ses-effets/)
+
+- Redistributive effects of 2017-2022 social spending and tax reforms, with B. Fabre, C. Lallemand, N. Loisel, L. Puschnig, IPP Policy brief 81, mars 2022 [Link](https://www.ipp.eu/en/publication/redistributive-effects-of-2017-2022-social-spending-and-tax-reforms/)
+
+- *[in French]* Les aides au logement en temps réel : évaluation d’impact, with B. Fabre and C. Lallemand, Rapport IPP 35, July 2021 [Link](https://www.ipp.eu/publication/juillet-2021-aides-au-logement-en-temps-reel-evaluation-d-impact/)
+
+- Gender pay gaps within companies, with T. Breda, J. Sultan Parraud, M. Tô, IPP Policy brief 68, May 2021 [Link](https://www.ipp.eu/en/publication/gender-pay-gaps-within-companies/) [Website](https://inegalites-femmes-hommes.ipp.eu)
+
+- Gender inequality within Firms: what does the professional equality index measure?, with T. Breda, J. Sultan Parraud, M. Tô, IPP Policy brief 52, March 2020 [Link](https://www.ipp.eu/en/publication/march-2020-gender-inequality-within-firms-what-does-the-professional-equality-index-measure/)
