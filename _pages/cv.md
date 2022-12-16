@@ -18,11 +18,11 @@ redirect_from:
 
 ### Work experience
 
-* since 2019 : senior economist at Institut des politiques publiques.
-* 2018-2019 : junior economist at Institut des politiques publiques.
-* Spring semester 2015 : Field coordinator in Cap-Haïtien, Haïti, under the supervision of Pr. Karen Macours (PSE) and Dan Stein (World Bank).
-* Fall semester 2014 : Short term termpory at the DEC-VP of the World Bank, Washington DC.
-* April-September 2012 : Junior analyst at Mapp Economics, Paris, France/
+* since 2019 : Senior economist at Institut des politiques publiques, Paris, France.
+* 2018-2019 : Junior economist at Institut des politiques publiques, Paris, France.
+* Spring semester 2015 : Field coordinator in Cap-Haïtien, Haïti, under the supervision of Pr. Karen Macours (PSE) and Daniel Stein (World Bank).
+* Fall semester 2014 : Short term temporary at the DEC-VP of the World Bank, Washington DC.
+* April-September 2012 : Junior analyst in Competition economics at [Mapp Economics](https://home.kpmg/fr/fr/home/services/advisory/deal-advisory/competition-economics-mapp-by-kpmg.html), Paris, France
 
 ### Skills
 
