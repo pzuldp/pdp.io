@@ -10,8 +10,8 @@ redirect_from:
 ### Education
 
 * Ph.D in Economics, ENS, PSL, [Paris School of Economics](https://www.parisschoolofeconomics.eu), 2019.
-    -  Three Essays in Applied Development Economics
-    -  Supervisor : Marc Gurgand. 
+    -  Thesis: *Three Essays in Applied Development Economics*
+    -  Supervisor : [Marc Gurgand](https://www.parisschoolofeconomics.eu/fr/gurgand-marc/) 
     -  [Manuscript](https://theses.hal.science/tel-03716759)
 * Graduate diploma in Economics and social sciences, [Ecole Normale Supérieure, Paris](https://www.ens.psl.eu), 2015.
 * M.S. in Public Policy and Development economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu), 2014.
