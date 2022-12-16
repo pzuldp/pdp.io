@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to this website. I'm Paul Dutronc-Postel. I work as a senior economist at the [Institut des politiques publiques](www.ipp.eu) in Paris. That means I spend most of my working time mobilizing applied econometrics techniques in order to evaluate public policies.
+Hi! Welcome to this website. I'm Paul Dutronc-Postel. I work as a senior economist at the [Institut des politiques publiques](https://www.ipp.eu) in Paris. That means I spend most of my working time mobilizing applied econometrics techniques in order to evaluate public policies.
 
 Topics that I'm currently working on:
 - the carbon footprint of French firms and policies to reduce it 
