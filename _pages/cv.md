@@ -11,41 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, ENS, PSL, [Paris School of Economics](www.parisschoolofeconomics.eu), 2019. Supervisor : Marc Gurgand. [Manuscript]()
+* Graduate diploma in Economics and social sceinces, [Ecole Normale Supérieure, Paris](www.ens.psl.eu), 2015.
+* M.S. in Public Policy and Development economics, [Paris School of Economics](www.parisschoolofeconomics.eu), 2014.
+* B.S. in Economics and Econometrics, [Université Paris I, Paris, France](https://economie.pantheonsorbonne.fr/ecole-deconomie-sorbonne), 2012.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 2019 : senio economist at Institut des politiques publiques.
+* 2018-2019 : junior economist at Institut des politiques publiques.
+* Spring semester 2015 : Field coordinator in Cap-Haïtien, Haïti, under the supervision of Pr. Karen Macours (PSE) and Dan Stein (World Bank).
+* Fall semester 2014 : Short term termpory at the DEC-VP of the World Bank, Washington DC.
+* April-September 2012 : Junior analyst at Mapp Economics, Paris, France/
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages spoken: French, English, German, Mandarin.
+* Softwares: R, Python, PostGreSQL, Stata, GIS, LaTeX.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +41,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Refereeing
 ======
-* Currently signed in to 43 different slack teams
+Journal of Development Economics, World Development, China Economic Review
+ 
+Communities
+======
+* OpenFisca-France
