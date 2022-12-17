@@ -14,7 +14,7 @@ I'm currently working on the carbon footprint of French firms, on labor market t
 
 In the past, I've worked on the South African pension system, internal migrations in China and on the career of local bureaucrats of the Chinese Communist Party.
 
-You'll find an overview of my research [here](publications/), and my CV [here](cv/).
+You'll find an overview of my research [here](research/), and my CV [here](cv/).
 
 I also contribute
 - to the [openfisca community](https://openfisca.org), 
