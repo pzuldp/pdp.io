@@ -17,7 +17,7 @@ author_profile: true
 
 ### Working papers
 
-- Cohorts, Competition and Construction:\\Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [Maiting Zhuang](https://sites.google.com/view/maitingzhuang/home), *submitted* [Link](/files/Bureaucrat_promotion__land_expropriation_and_economic_performance__2021_version.pdf)
+- Cohorts, Competition and Construction:\\Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [Maiting Zhuang](https://sites.google.com/view/maitingzhuang/home), *submitted* [Link](files/Bureaucrat_promotion__land_expropriation_and_economic_performance__2021_version.pdf)
 
 ### Publications in peer-reviewed journals
 
