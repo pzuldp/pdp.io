@@ -7,8 +7,6 @@ author_profile: true
 
 ### Work in progress
 
-- Labor digitalization and the 2020 pandemic, with Thomas Breda and Vladimir Pécheu
-
 - Broadband infrastructure, firms, and workers, with Arthur Guillouzouic and Clément Malgouyres
 
 - Perceptions of income inequality and redistributivity, with Joyce Sultan Parraud
