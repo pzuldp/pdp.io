@@ -27,7 +27,35 @@ redirect_from:
 
 ### Grants
 
+*as PI :*
 
+* Research division of the French Ministry of Labour (DARES)
+    - Call for projects : The Covid crisis and its impact of French labor markets
+    - Project title : Short term work adoption and its consequences on firms and workers
+    - 80 000 euros
+    - 2021-2022
+* French Agency for the environment and energy (Ademe)
+    - Call for projects : Social, economic and environmental transitions
+    - Project title : Green firms - the carbon footprint of French firms and their taxation
+    - 130 000 euros
+    - 2022-2023
+* Prime minister's directorate for policy expertise and evaluation (France Stratégie)
+    - Call for projects : Evaluation of the Plan France Relance
+    - Project title : Evaluating the targeting, the ex ante, and the ex post impact of industrial subsidies for decarbonization
+    - 100 000 euros
+    - 2022-2023
+
+*as member :*
+
+* French National Research Agency (ANR)
+    - Telework in France
+    - PI: Thomas Breda
+    - 2021-2025
+
+* Prime minister's directorate for policy expertise and evaluation (France Stratégie)
+    - An econometric evaluation of the France Très Haut Débit (Broadband for France) plan  
+    - PI: Clément Malgouyres
+    - 2021-2022
 
 ### Skills
 
