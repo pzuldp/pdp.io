@@ -8,14 +8,16 @@ redirect_from:
 
 Hi! Welcome to my professionnal webpage :) 
 
-I work as a senior economist at the [Institut des politiques publiques](https://www.ipp.eu) in Paris, where I head the "Environment" team. That means I spend most of my working time mobilizing applied econometrics techniques in order to evaluate public policies; and that in a lot of these projects, environmental aspects are a key feature of interest.
+I work as a senior economist at the [Institut des politiques publiques](https://www.ipp.eu) in Paris, where I head the "Environment" team. This means that:
+- I spend most of my working time mobilizing applied econometrics techniques in order to evaluate public policies,
+- and that in a lot of these projects, environmental aspects are a key feature of interest.
 
-I'm currently working on 
-- the carbon footprint of French firms and decarbonization policies
+I'm currently working 
+- on the carbon footprint of French firms and decarbonization policies
 - on labor market transformations and policies
-- household and firm taxation
-- housing energy efficiency
-- car-sharing
+- on household and firm taxation
+- on housing energy efficiency subsidies
+- on the effects of car-sharing
 
 In the past, I've worked on the South African pension system, internal migrations in China and on the career of local bureaucrats of the Chinese Communist Party.
 
