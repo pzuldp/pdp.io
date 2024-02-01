@@ -12,19 +12,12 @@ I work as a senior economist at the [Institut des politiques publiques](https://
 - I spend most of my working time mobilizing applied econometrics techniques in order to evaluate public policies,
 - and that in a lot of these projects, environmental aspects are a key feature of interest.
 
-I'm currently working 
-- on the carbon footprint of French firms and decarbonization policies
-- on labor market transformations and policies
-- on household and firm taxation
-- on housing energy efficiency subsidies
-- on the effects of car-sharing
-
-In the past, I've worked on the South African pension system, internal migrations in China and on the career of local bureaucrats of the Chinese Communist Party.
+I'm currently working on topics related to housing retrofit subsidies; decarbonization subsidies; and carpooling practices.
 
 You'll find an overview of my research [here](research/), and my CV [here](cv/).
 
-I also contribute
-- to the [openfisca community](https://openfisca.org), 
+Even though I am now less active in them, I also have contributed to the following communities, which I recommend you check out if you've ever harbored an interest for taxes (and transfers!):
+- to the [openfisca community](https://openfisca.org), a open-source framework to model tax-and-benefit systems,
 - to the development of [TAXIPP](https://www.ipp.eu/en/methods/taxipp-micro-simulation/), a microsimulation software for the French tax and benefit system, and 
 - to the maintenance of the [Barèmes IPP](https://www.ipp.eu/baremes-ipp), a database of legislative parameters
 
