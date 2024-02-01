@@ -7,24 +7,33 @@ author_profile: true
 
 ### Work in progress
 
-- Perceptions of income inequality and redistributivity, with Joyce Sultan Parraud
+- Do Subsidies to Green Technical Change Reduce Carbon Emissions? Evidence from French Manufacturing Firms, w. L. Bach, A. Guillouzouic, and R. Paya [_Draft coming soon_!]
 
-- Measuring the carbon targeting of French corporate taxation, with Laurent Bach, Arthur Guillouzouic, Clément Malgouyres, Hélène Ollivier, Rachel Paya
+- Which jobs can be done from home in theory and which are indeed teleworked? An analysis before, during and after the Covid-19 crisis, w. T. Breda and V. Pécheu [_Draft coming soon_!]
 
-- Subsidizing industry decarbonization, with Nicolas Astier, Laurent Bach, Arthur Guillouzouic, Clément Malgouyres, Hélène Ollivier, Rachel Paya
+- The elasticity of retrofit demand to retrofit performance, w. E. Fize and A. Mélard
 
-- Broadband infrastructure, firms, and workers, with Arthur Guillouzouic and Clément Malgouyres
+- The incidence of retrofit subsidies on the housing renovation sector, w. E. Fize and A. Mélard
 
+- Perceptions of income inequality and redistributivity, with J. Sultan Parraud
+
+- Broadband infrastructure, firms, and workers, with A. Guillouzouic and C. Malgouyres
 
 ### Working papers
 
-- Cohorts, Competition and Construction:\\Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [Maiting Zhuang](https://sites.google.com/view/maitingzhuang/home), *submitted* [Link](../files/Bureaucrat_promotion__land_expropriation_and_economic_performance__2021_version.pdf)
+- Cohorts, Competition and Construction:\\Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [M. Zhuang](https://sites.google.com/view/maitingzhuang/home), *submitted* [Link](../files/Bureaucrat_promotion__land_expropriation_and_economic_performance__2021_version.pdf)
 
 ### Publications in peer-reviewed journals
 
-- Large Means-Tested Pensions with Informal Labor Markets: Evidence from South Africa, with [Alessandro Tondini](https://sites.google.com/site/alessandrocarlotondini/home?pli=1), Economic Development and Cultural Change, forthcoming. [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/717618)
+- Large Means-Tested Pensions with Informal Labor Markets: Evidence from South Africa, with [A. Tondini](https://sites.google.com/site/alessandrocarlotondini/home?pli=1), Economic Development and Cultural Change, forthcoming. [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/717618)
 
 ### Policy 
+
+- *[in French]* The carbon emissions of the French manufacturing industry, and the carbon targeting of public policies, with L. Bach, A. Guillouzouic, C. Malgouyres, and R. Paya, Note IPP n°102, January 2024
+
+- *[in French]* Evaluating the _France Relance_ decarbonization subsidies, with N. Astier, L. Bach, A. Guillouzouic, C. Malgouyres, H. Ollivier, and R. Paya, Rapport IPP n°50, January 2024
+
+- *[in French]* An evaluation of the French housing tax reform, w. L. Bach, A. Bozio, E. Fize, A. Guillouzouic, C. Malgouyres, Rapport IPP n°48, December 2023
 
 - *[in French]* An evaluation of the gender equality index, with T. Bréda, J. Ducoulombier, M. Leturcq, J. Sultan, M. Tô, Rapport IPP n°42, March 2023 [Link](https://www.ipp.eu/publication/evaluation-de-lindex-degalite-professionnelle/)
 
