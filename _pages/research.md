@@ -9,7 +9,7 @@ author_profile: true
 
 - Do Subsidies to Green Technical Change Reduce Carbon Emissions? Evidence from French Manufacturing Firms, w. L. Bach, A. Guillouzouic, and R. Paya [_Draft coming soon_!]
 
-- Which jobs can be done from home in theory and which are indeed teleworked? An analysis before, during and after the Covid-19 crisis, w. T. Breda and V. Pécheu [_Draft coming soon_!]
+- Gaps between working from home and its feasibility over time and across occupations, w. T. Breda and V. Pécheu [_Draft coming soon_!]
 
 - The elasticity of retrofit demand to retrofit performance, w. E. Fize and A. Mélard
 
@@ -25,7 +25,7 @@ author_profile: true
 
 ### Publications in peer-reviewed journals
 
-- Large Means-Tested Pensions with Informal Labor Markets: Evidence from South Africa, with [A. Tondini](https://sites.google.com/site/alessandrocarlotondini/home?pli=1), Economic Development and Cultural Change, forthcoming. [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/717618)
+- Large Means-Tested Pensions with Informal Labor Markets: Evidence from South Africa, with [A. Tondini](https://sites.google.com/site/alessandrocarlotondini/home?pli=1), Economic Development and Cultural Change, April 2023. [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/717618)
 
 ### Policy 
 
