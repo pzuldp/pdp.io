@@ -9,11 +9,7 @@ author_profile: true
 
 - Do Subsidies to Green Technical Change Reduce Carbon Emissions? Evidence from French Manufacturing Firms, w. L. Bach, A. Guillouzouic, and R. Paya [_Draft coming soon_!]
 
-- Gaps between working from home and its feasibility over time and across occupations, w. T. Breda and V. Pécheu [_Draft coming soon_!]
-
-- The elasticity of retrofit demand to retrofit performance, w. E. Fize and A. Mélard
-
-- The incidence of retrofit subsidies on the housing renovation sector, w. E. Fize and A. Mélard
+- Incidence of means-tested subsidies to housing retrofit: Evidence from France, w. E. Fize, A. Melard [_Draft coming soon_!]
 
 - Perceptions of income inequality and redistributivity, with J. Sultan Parraud
 
@@ -21,7 +17,9 @@ author_profile: true
 
 ### Working papers
 
-- Cohorts, Competition and Construction: Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [M. Zhuang](https://sites.google.com/view/maitingzhuang/home), *submitted* [Link](../files/Bureaucrat_promotion__land_expropriation_and_economic_performance__2021_version.pdf)
+- Cohorts, Competition and Construction: Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [M. Zhuang](https://sites.google.com/view/maitingzhuang/home), [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4435035), **R&R, World Bank Economic Review**
+
+- Gaps between working from home and its feasibility over time and across occupations, w. [T. Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [V. Pécheu](https://vladimirpecheu.com/), [Link](../files/BDPP-2024-Working-from-Home-Feasibility.pdf) **R&R, Journal of Economic Behaviour and Organisation**
 
 ### Publications in peer-reviewed journals
 
