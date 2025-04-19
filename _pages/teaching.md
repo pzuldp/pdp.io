@@ -5,6 +5,8 @@ author_profile: true
 
 ### Courses
 
+- Public economics (Finances publiques, fiscalité, économie publiques), MS PAPDD, ENPC, Fall 2024
+
 - Quantitative methods and Public Policy Evaluation - Intermediate level, Sciences Po, Paris, Spring 2023
 
 - Introduction to Public Policy Evaluation, Ecole Nationale d'Administration (formation IPP), Paris, Spring 2019
@@ -16,6 +18,8 @@ author_profile: true
 - Measurement of Policy Outcomes, TA, Public Policy and Development Master's Program, M1, Paris School of Economics, 2015-2018
 
 ### Supervision
+
+- E. Belin-Bourgogne, Master APE (Paris School of Economics), 2025, M2 Dissertation, co-supervised w/ H. Ollivier (PSE)
 
 - R. Paya, Master APE (Paris School of Economics), 2021, M2 Dissertation, co-supervised w/ L. Chancel (WIL, PSE), ``Sustainable Welfare? Socio-Ecological Evaluation of the Energy Voucher in France"
 
